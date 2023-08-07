@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "59078c080f89c0c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1c37071ec14e530",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4142c72ac7a6020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "神/盖亚.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d874492a23776b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "52f8f3f1ab46669d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9ecc9f85ddded67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75091e7c1f7eb5bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "48fd1a62a3919922",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95a25539fbff2021",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bd9d906a11c586b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a95447a9864b15ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "神/盖亚.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "c4142c72ac7a6020",
+  "lastOpenFiles": [
+    "神/卡俄斯.md",
+    "神/盖亚.md",
+    "神/伊阿珀托斯.md",
+    "神/阿特拉斯.md",
+    "神/迈亚.md",
+    "神/厄瑞玻斯.md",
+    "神/瑞亚.md",
+    "神/宙斯.md",
+    "神/厄勒克特拉（大洋神女）.md",
+    "神/厄勒克特拉（阿特拉斯之女）.md",
+    "神/忒亚.md",
+    "神/厄俄斯.md",
+    "神/阿玛尔忒亚.md",
+    "神/阿斯特赖俄斯.md",
+    "神/克利俄斯.md",
+    "神/欧律比亚.md",
+    "神/乌剌诺斯.md",
+    "神/塔尔塔洛斯.md",
+    "神/克洛诺斯.md",
+    "神/阿波罗.md",
+    "神/阿厄洛.md",
+    "克罗诺斯.md",
+    "神/倪克斯.md",
+    "怪物/堤丰.md",
+    "事件/堤丰之战.md",
+    "神/奥瑞亚.md",
+    "picture/Peter Paul Rubens-The Death of Hippolytus.jpg",
+    "Untitled.canvas",
+    "picture/Peloponnisos-location.png",
+    "picture/Raphael-The Parnassus..jpg",
+    "picture/Rembrandt-Danaë.jpg"
+  ]
+}

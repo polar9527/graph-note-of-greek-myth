@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "神/盖亚.md",
+                "file": "神/卡俄斯 (混沌 Chaos).md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "神/盖亚.md",
+                "file": "神/卡俄斯 (混沌 Chaos).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +115,8 @@
   },
   "active": "c4142c72ac7a6020",
   "lastOpenFiles": [
-    "神/卡俄斯.md",
     "神/盖亚.md",
+    "神/卡俄斯 (混沌 Chaos).md",
     "神/伊阿珀托斯.md",
     "神/阿特拉斯.md",
     "神/迈亚.md",
